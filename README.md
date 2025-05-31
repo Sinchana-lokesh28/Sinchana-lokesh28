@@ -5,10 +5,10 @@
 ---
 
 ### 💡 About Me:
-- 🌱 I’m currently deepening my skills in **Python**, **IoT**, and **Machine Learning**.
-- 🔧 I work on **embedded systems**, **Arduino projects**, and **AI-based automation**.
-- 🌐 I'm also exploring full-stack web development with **React** and **MySQL**.
-- 🚀 I love building smart, impactful solutions—whether it's a **Smart Helmet** or an **AI-powered Entry-Exit Counter**.
+-  I’m currently deepening my skills in **Python**, **IoT**, and **Machine Learning**.
+-  I work on **embedded systems**, **Arduino projects**, and **AI-based automation**.
+-  I'm also exploring full-stack web development with **React** and **MySQL**.
+-  I love building smart, impactful solutions—whether it's a **Smart Helmet** or an **AI-powered Entry-Exit Counter**.
 
 ---
 

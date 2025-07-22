@@ -13,7 +13,7 @@
 ---
 
 ### 🛠️ Tech Stack:
-- **Languages:** Python, C, MySQL, HTML, JavaScript
+- **Languages:** Python, C, MySQL, HTML
 - **Frameworks & Tools:** React.js, Arduino IDE, MATLAB, Multisim, Microsoft Office
 - **Domains:** Embedded Systems, IoT, Machine Learning, Data Analytics
 

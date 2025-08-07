@@ -16,7 +16,7 @@ Currently exploring opportunities to apply my skills in real-time problem-solvin
 
 ---
 
-### 🛠Tech Stack:
+### Tech Stack:
 - **Languages:** Python, C, MySQL, HTML
 - **Frameworks & Tools:** React.js, Arduino IDE, MATLAB, Multisim, Microsoft Office
 - **Domains:** Embedded Systems, IoT, Machine Learning, Data Analytics

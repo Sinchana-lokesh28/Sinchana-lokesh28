@@ -36,7 +36,7 @@ Currently exploring opportunities to apply my skills in real-time problem-solvin
 - Python Development & GUI Intern – Technical Hub & Aprameyah Technologies
 - Machine Learning & Data Analytics – Certified Training
 - Hands-on IoT Workshop – Ed Gate, with Texas Instruments MCU
-- -	Deloitte Australia Technology Job Simulation on Forage - July 2025
+- Deloitte Australia Technology Job Simulation on Forage - July 2025
 
 ---
 
